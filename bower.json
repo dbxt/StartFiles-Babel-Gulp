@@ -1,0 +1,15 @@
+{
+  "name": "babel_gulp_intro",
+  "version": "0.0.0",
+  "authors": [
+    "David Wayne Baxter <david@davidwaynebaxter.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
